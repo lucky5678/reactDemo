@@ -1,0 +1,83 @@
+[  
+	{
+
+      "icon" : require('./image/image1.png'),
+      "name" : "Amy",
+      "type" : "Friend",
+      "sort":"A"
+  },
+	{
+    "icon" : require('./image/image2.png'),
+    "name" : "Apple",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./image/image3.png'),
+    "name" : "Asher",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./image/image4.png'),
+    "name" : "Black",
+    "type" : "Friend",
+    "sort":"B"
+  },
+  {
+    "icon" : require('./image/image5.png'),
+    "name" : "Bee",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./image/image6.png'),
+    "name" : "Brian",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./image/image1.png'),
+    "name" : "Daniel",
+    "type" : "Friend",
+    "sort":"D"
+  },
+  {
+    "icon" : require('./image/image2.png'),
+    "name" : "David",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./image/image3.png'),
+    "name" : "Frank",
+    "type" : "Family",
+    "sort":"F"
+  },
+  {
+    "icon" : require('./image/image4.png'),
+    "name" : "Fiona",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./image/image5.png'),
+    "name" : "Friday",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./image/image6.png'),
+    "name" : "Jack",
+    "type" : "Friend",
+    "sort":"J"
+  },
+  {
+    "icon" : require('./image/image1.png'),
+    "name" : "Jason",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./image/image2.png'),
+    "name" : "Jasper",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./image/image3.png'),
+    "name" : "Jasmine",
+    "type" : "Friend"
+  }
+]

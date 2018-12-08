@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .t2{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            width: 200px;
+            height: 150px;
+            border: 1px solid red;
+
+
+        }
+        .t2:after {content: ""; width: 50px; }
+
+        .t1{
+            width: 50px;
+            height: 50px;
+
+            background: red;
+            border: 1px solid black;
+
+        }
+    </style>
+</head>
+<body>
+<span class="t2">
+    <span class="t1"></span>
+    <span class="t1"></span>
+    <span class="t1"></span>
+    <span class="t1"></span>
+    <span class="t1"></span>
+
+</span>
+</body>
+</html>
